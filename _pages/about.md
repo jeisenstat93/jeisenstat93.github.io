@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Engaged sociology and data witchcraft for a just and liberated world 
 
 profile:
   align: right
