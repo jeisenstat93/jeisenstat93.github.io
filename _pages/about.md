@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Engaged sociology and data witchcraft for a just and liberated world 
+subtitle: Engaged sociology and data librarianship for a just and liberated world 
 
 profile:
   align: right
