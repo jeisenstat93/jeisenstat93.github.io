@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. 
+Hi! My name is Joshua (they/them), and I am a sociologist, data librarian, and community organizer based in New York. On this website you will find an overview of my academic work. 
