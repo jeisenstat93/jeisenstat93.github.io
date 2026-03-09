@@ -12,4 +12,10 @@ This page displays a collection of courses with detailed schedules, materials, a
 
 {% comment %} {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %} {% endcomment %}
 
+## Undergraduate Courses
+
 {% include courses.liquid %}
+
+## Workshops
+
+## Possible Courses 
