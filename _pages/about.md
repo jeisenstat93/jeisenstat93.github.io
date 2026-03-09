@@ -28,3 +28,11 @@ latest_posts:
 ---
 
 Hi! My name is Joshua (they/them), and I am a sociologist, data librarian, and community organizer based in New York. On this website you will find an overview of my academic work. 
+
+## Democratizing Philanthropy
+
+## Digital Tools for Qualitative Data Analysis
+
+## Decoding Hate
+
+
