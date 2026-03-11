@@ -22,5 +22,7 @@ This page displays a collection of courses with detailed schedules, materials, a
 
 ### The Theory and Practice of Digital Organizing
 
+### Jews, Judaism, and Social Justice
+
 ### Cultivating American Jewish Philanthropy
 
