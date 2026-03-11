@@ -21,3 +21,6 @@ This page displays a collection of courses with detailed schedules, materials, a
 ## Possible Courses 
 
 ### The Theory and Practice of Digital Organizing
+
+### Cultivating American Jewish Philanthropy
+
