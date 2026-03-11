@@ -20,4 +20,4 @@ This page displays a collection of courses with detailed schedules, materials, a
 
 ## Possible Courses 
 
-### Religion and Revolution
+### The Theory and Practice of Digital Organizing
