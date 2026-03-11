@@ -19,3 +19,5 @@ This page displays a collection of courses with detailed schedules, materials, a
 ## Workshops
 
 ## Possible Courses 
+
+### Queering Religion
