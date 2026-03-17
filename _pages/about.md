@@ -30,7 +30,10 @@ Hi! My name is Joshua (they/them), and I am a sociologist, data librarian, and c
 
 ### Democratizing Philanthropy
 
-### Digital Tools for Qualitative Data Analysis
+### AI Harm Reduction
+Artificial intelligence (AI) systems will reshape the future of work, including academic research. My teaching explores how we can collectively shape the design, procurement, and use of these systems at universities. 
+
+You can find the slides from a workshop I teach at NYU Libraries [here]([url](https://docs.google.com/presentation/d/10DnfVDTC5akxhFfN2jKLwY5PU0oN2uGujnkbIVjhVNI/edit)), designed for qualitative researchers. 
 
 ### Engaged Urbanism
 
