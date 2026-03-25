@@ -38,8 +38,15 @@ Artificial intelligence (AI) systems will reshape the future of work, including 
 
 You can find the slides from a workshop I teach at NYU Libraries [here](https://docs.google.com/presentation/d/10DnfVDTC5akxhFfN2jKLwY5PU0oN2uGujnkbIVjhVNI/edit), designed for qualitative researchers. 
 
+To navigate this space well, we also need to understand how tech companies themselves sell and teach their software. My early scholarship explored this dynamic through interviews with Customer Success Managers (see here). 
+
 ### Engaged Urbanism
+
+- As an affiliate of the Urban Democracy Lab, I teach the Gallatin Fellowship in Urban Practice
+- You can find the syllabus for that course here, including some frameworks we have produced as a class
+- With Gianpaolo Baiocchi, I am collecting and archiving similar efforts to teach engaged social science praxis. Emails us at XX to learn more. 
 
 ### Decoding Hate
 
+- Finally, something something Center for the Study of Antisemitism 
 
