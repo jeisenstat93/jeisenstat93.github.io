@@ -26,3 +26,5 @@ This page displays a collection of courses with detailed schedules, materials, a
 
 ### Cultivating American Jewish Philanthropy
 
+## Pedagogy and Popular Education 
+
