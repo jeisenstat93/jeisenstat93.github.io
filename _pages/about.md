@@ -29,7 +29,9 @@ latest_posts:
 Hi! My name is Joshua (they/them), and I am a sociologist, data librarian, and community organizer based in New York. On this website you will find an overview of my academic work. 
 
 ### Democratizing Philanthropy
-My primary scholarship examines elite philanthropy as a political institution. In my dissertation, I explore historic efforts to democratize the system of American Jewish philanthropy. Building on [recent]([url](https://press.princeton.edu/books/hardcover/9780691170732/the-american-jewish-philanthropic-complex)) work in the field, 
+My primary scholarship examines elite philanthropy as a political institution. In my dissertation, I explore social movement efforts to democratize and reimagine the system of American Jewish philanthropy. Building on [recent](https://press.princeton.edu/books/hardcover/9780691170732/the-american-jewish-philanthropic-complex) [work]([url](https://nyupress.org/9781479836345/jewish-giving/)) in the field, I explore submerged historic efforts to cultivate philanthropy aligned with feminist, anti-racist, and global justice movements. 
+
+Having become a progressive Jewish philanthropy nerd, you can also find me organizing with the [Jewish Liberation Fund]([url](https://www.jewishliberation.fund/))
 
 ### AI Harm Reduction and Civics
 Artificial intelligence (AI) systems will reshape the future of work, including social science research. My teaching explores how we can collectively shape the design, procurement, and use of these systems at universities. 
